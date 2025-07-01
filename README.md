@@ -1,2 +1,2 @@
-# symmetrical-bassoon
+# Portfolio
 Portfolio with my projects.
